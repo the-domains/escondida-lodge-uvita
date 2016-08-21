@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T17:48:06.985Z'
+datePublished: '2016-08-21T17:48:26.541Z'
 sourcePath: >-
   _posts/2016-08-20-have-you-ever-wanted-a-place-to-retreat-from-everything-and.md
 author: []
@@ -19,7 +19,7 @@ metadata:
       Have you ever wanted a place to retreat from everything and do the things
       that you really love?
   dateModified: '2016-08-20T23:14:19.180Z'
-dateModified: '2016-08-21T17:48:06.619Z'
+dateModified: '2016-08-21T17:48:23.627Z'
 title: ''
 id: 3e887a90-9390-4430-8303-a72e13e9e9d8
 publisher: {}
