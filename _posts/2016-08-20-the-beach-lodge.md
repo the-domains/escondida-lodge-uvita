@@ -1,7 +1,7 @@
 ---
 title: The Beach Lodge
-datePublished: '2016-08-20T23:28:00.153Z'
-dateModified: '2016-08-20T23:27:41.068Z'
+datePublished: '2016-08-20T23:30:56.771Z'
+dateModified: '2016-08-20T23:30:34.114Z'
 publisher: {}
 author: []
 description: >-
@@ -33,7 +33,6 @@ wi-fi internet
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73f089d7-fd5f-43d9-8d54-687c692d3771.jpg)
 
 The Lodge sleep up to 4 guests
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2b01fe3-e21c-4b37-96f5-66059ad0b617.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35c0ff8-06c4-4b90-847d-79d192339a36.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbd9d8a8-40bd-49af-8f55-52a7c1b7090a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1365b348-89e0-45e2-8789-e46909b71fa0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0c23b97-7d3c-476b-981b-13122fab35e7.png)
