@@ -1,14 +1,14 @@
-layout_spectrum: 0.5130959514062852
-typography_spectrum: 0.16753499512560666
+layout_spectrum: 0.7685277028940618
+typography_spectrum: 0.6279748857486993
 color:
-  brandStrength: 0.6393687182571739
-  lightness: 0.680212929379195
-  saturation: 0.2954693401698023
-  rhythmicContrast: 0.25759992585517466
+  brandStrength: 0.33393043372780085
+  lightness: 0.8105866657570004
+  saturation: 0.80225103138946
+  rhythmicContrast: 0.7200661865063012
   brandColors:
-    - '#000000'
-    - '#BFBFBF'
-    - '#2C2219'
-    - '#5B4A3A'
-    - '#008CB7'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Escondida Lodge - Uvita
