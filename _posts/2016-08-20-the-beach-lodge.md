@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T15:00:30.852Z'
+datePublished: '2016-08-21T15:00:35.574Z'
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 author: []
 via: {}
@@ -16,7 +16,7 @@ metadata:
     guests.
   via: {}
   sourcePath: _posts/2016-08-20-the-beach-lodge.md
-dateModified: '2016-08-21T15:00:16.631Z'
+dateModified: '2016-08-21T15:00:32.479Z'
 title: The Beach Lodge
 id: fe886335-6ef8-46d3-9ac0-e527b7412519
 publisher: {}
@@ -51,3 +51,5 @@ The Lodge sleep up to 4 guests
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1365b348-89e0-45e2-8789-e46909b71fa0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0c23b97-7d3c-476b-981b-13122fab35e7.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80955fbf-4028-410a-9086-05a0f98dfca4.jpg)
+
+Are you ready to unplug?
