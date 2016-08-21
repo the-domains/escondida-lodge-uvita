@@ -1,5 +1,9 @@
 ---
-id: 3e887a90-9390-4430-8303-a72e13e9e9d8
+datePublished: '2016-08-21T17:36:03.525Z'
+sourcePath: >-
+  _posts/2016-08-20-have-you-ever-wanted-a-place-to-retreat-from-everything-and.md
+author: []
+via: {}
 metadata:
   id: 3e887a90-9390-4430-8303-a72e13e9e9d8
   metadata:
@@ -15,18 +19,14 @@ metadata:
       Have you ever wanted a place to retreat from everything and do the things
       that you really love?
   dateModified: '2016-08-20T23:14:19.180Z'
-dateModified: '2016-08-20T23:21:54.915Z'
+dateModified: '2016-08-21T17:36:02.941Z'
 title: ''
-datePublished: '2016-08-20T23:21:59.235Z'
-author: []
+id: 3e887a90-9390-4430-8303-a72e13e9e9d8
+publisher: {}
 description: >-
   Have you ever wanted a place to retreat from everything and do the things that
   you really love?
-publisher: {}
-via: {}
 starred: true
-sourcePath: >-
-  _posts/2016-08-20-have-you-ever-wanted-a-place-to-retreat-from-everything-and.md
 inFeed: true
 hasPage: false
 inNav: false
