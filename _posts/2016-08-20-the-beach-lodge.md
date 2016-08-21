@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T20:12:03.649Z'
+datePublished: '2016-08-21T20:28:34.260Z'
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 hasPage: true
 author: []
@@ -17,7 +17,7 @@ metadata:
     guests.
   via: {}
   sourcePath: _posts/2016-08-20-the-beach-lodge.md
-dateModified: '2016-08-21T20:09:53.871Z'
+dateModified: '2016-08-21T20:22:22.659Z'
 title: The Beach Lodge
 id: fe886335-6ef8-46d3-9ac0-e527b7412519
 publisher: {}
