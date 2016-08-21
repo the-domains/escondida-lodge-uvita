@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-20T21:03:08.609Z'
-sourcePath: _posts/2016-08-20-the-beach-lodge.md
-author: []
-via: {}
-dateModified: '2016-08-20T21:03:03.015Z'
 title: The Beach Lodge
-publisher: {}
+datePublished: '2016-08-20T23:20:40.181Z'
+dateModified: '2016-08-20T23:20:07.717Z'
+author: []
 description: >-
-  A magical beachfront Lodge, between Uvita and Dominical, the ecological refuge
-  is 1 comfortable Oceanfront Rustic Cabin with views all around and totally
-  blended in Nature, that can accommodate a max of 4 guests.
+  On a spectacular 2 acres private beach front, between Uvita and Dominical, the
+  ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views all
+  around and totally blended in Nature, that can accommodate a max of 4 guests.
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-20-the-beach-lodge.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,7 +20,7 @@ _type: MediaObject
 # The Beach Lodge
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebd312f-0167-43dd-907c-26b481d0b8f4.jpg)
 
-A magical beachfront Lodge, between Uvita and Dominical, the ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views all around and totally blended in Nature, that can accommodate a max of 4 guests.
+On a spectacular 2 acres private beach front, between Uvita and Dominical, the ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views all around and totally blended in Nature, that can accommodate a max of 4 guests.
 
 A basic equipped kitchen with refrigerator and stove top
 
@@ -35,3 +35,4 @@ wi-fi internet
 The Lodge sleep up to 4 guests
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2b01fe3-e21c-4b37-96f5-66059ad0b617.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35c0ff8-06c4-4b90-847d-79d192339a36.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69262c8d-4ed3-4d12-bfca-7332117f44e8.jpg)
