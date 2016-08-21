@@ -1,14 +1,14 @@
 ---
+title: ''
+datePublished: '2016-08-20T21:14:50.014Z'
+dateModified: '2016-08-20T21:14:46.965Z'
+publisher: {}
+author: []
 description: >-
   Have you ever wanted a place to retreat from everything and do the things that
   you really love? 
-dateModified: '2016-08-20T20:40:20.165Z'
-datePublished: '2016-08-20T20:40:28.818Z'
-title: ''
-author: []
-publisher: {}
 via: {}
-starred: true
+starred: false
 sourcePath: >-
   _posts/2016-08-20-have-you-ever-wanted-a-place-to-retreat-from-everything-and.md
 inFeed: true
