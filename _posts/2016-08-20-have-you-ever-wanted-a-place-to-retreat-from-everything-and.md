@@ -1,16 +1,32 @@
 ---
+id: 3e887a90-9390-4430-8303-a72e13e9e9d8
+metadata:
+  id: 3e887a90-9390-4430-8303-a72e13e9e9d8
+  metadata:
+    datePublished: '2016-08-20T21:14:56.850Z'
+    sourcePath: >-
+      _posts/2016-08-20-have-you-ever-wanted-a-place-to-retreat-from-everything-and.md
+    author: []
+    via: {}
+    dateModified: '2016-08-20T23:12:11.350Z'
+    title: ''
+    publisher: {}
+    description: >-
+      Have you ever wanted a place to retreat from everything and do the things
+      that you really love?
+  dateModified: '2016-08-20T23:14:19.180Z'
+dateModified: '2016-08-20T23:21:54.915Z'
 title: ''
-datePublished: '2016-08-20T21:14:56.850Z'
-dateModified: '2016-08-20T21:14:55.343Z'
-publisher: {}
+datePublished: '2016-08-20T23:21:59.235Z'
 author: []
 description: >-
   Have you ever wanted a place to retreat from everything and do the things that
-  you really love? 
+  you really love?
+publisher: {}
 via: {}
+starred: true
 sourcePath: >-
   _posts/2016-08-20-have-you-ever-wanted-a-place-to-retreat-from-everything-and.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
