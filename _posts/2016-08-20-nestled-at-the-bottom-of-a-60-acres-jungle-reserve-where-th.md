@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-21T14:57:26.380Z'
+datePublished: '2016-08-21T14:58:32.658Z'
 sourcePath: >-
   _posts/2016-08-20-nestled-at-the-bottom-of-a-60-acres-jungle-reserve-where-th.md
 author: []
 via: {}
-dateModified: '2016-08-21T14:57:21.221Z'
+dateModified: '2016-08-21T14:58:31.560Z'
 title: ''
 publisher:
   name: Playa Escondida Lodge
