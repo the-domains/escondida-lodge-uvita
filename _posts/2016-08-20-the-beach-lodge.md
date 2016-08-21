@@ -1,23 +1,23 @@
 ---
-datePublished: '2016-08-20T20:53:57.209Z'
+datePublished: '2016-08-20T21:00:26.269Z'
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 author: []
 via: {}
-dateModified: '2016-08-20T20:53:50.480Z'
-title: The Beach Lodge
+dateModified: '2016-08-20T21:00:22.137Z'
+title: Playa Escondida Lodge
 publisher: {}
 description: >-
   A magical beachfront Lodge, between Uvita and Dominical, the ecological refuge
   is 1 comfortable Oceanfront Rustic Cabin with views all around and totally
   blended in Nature, that can accommodate a max of 4 guests.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# The Beach Lodge
+# Playa Escondida Lodge
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebd312f-0167-43dd-907c-26b481d0b8f4.jpg)
 
 A magical beachfront Lodge, between Uvita and Dominical, the ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views all around and totally blended in Nature, that can accommodate a max of 4 guests.
