@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-21T15:13:14.866Z'
+datePublished: '2016-08-21T15:13:19.936Z'
 sourcePath: >-
   _posts/2016-08-20-nestled-at-the-bottom-of-a-60-acres-jungle-reserve-where-th.md
 author: []
 via: {}
-dateModified: '2016-08-21T15:13:01.698Z'
+dateModified: '2016-08-21T15:13:15.550Z'
 title: ''
 publisher: {}
 description: >-
