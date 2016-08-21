@@ -3,15 +3,15 @@ description: >-
   Nestled at the bottom of a 60 Acres Jungle reserve, where the “Jungle meets
   the Ocean” and the beach at your doorsteps, Playa Escondida Lodge is a unique
   experience for the adventurous traveler searching for a hidden gem 
-dateModified: '2016-08-20T20:46:43.385Z'
-datePublished: '2016-08-20T20:46:44.138Z'
+dateModified: '2016-08-20T20:56:34.042Z'
+datePublished: '2016-08-20T20:56:34.836Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2016-08-20-nestled-at-the-bottom-of-a-60-acres-jungle-reserve-where-th.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
