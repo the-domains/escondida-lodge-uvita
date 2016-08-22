@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-22T03:50:22.542Z'
+datePublished: '2016-08-22T04:01:08.605Z'
+sourcePath: _posts/2016-08-20-the-beach-lodge.md
 inFeed: true
-hasPage: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-22T03:50:17.418Z'
+dateModified: '2016-08-22T04:01:01.068Z'
 title: The Beach Lodge
 publisher: {}
 description: >-
@@ -12,9 +13,7 @@ description: >-
   ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views all
   around and totally blended in Nature, that can accommodate a max of 4 guests.
 starred: false
-sourcePath: _posts/2016-08-20-the-beach-lodge.md
-url: the-beach-lodge/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The Beach Lodge
