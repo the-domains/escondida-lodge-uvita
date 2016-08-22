@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T04:01:08.605Z'
+datePublished: '2016-08-22T04:01:13.020Z'
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-22T04:01:01.068Z'
+dateModified: '2016-08-22T04:01:12.544Z'
 title: The Beach Lodge
 publisher: {}
 description: >-
