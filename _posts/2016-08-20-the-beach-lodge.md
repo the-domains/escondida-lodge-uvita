@@ -1,19 +1,20 @@
 ---
-title: The Beach Lodge
-datePublished: '2016-08-22T03:00:50.542Z'
-dateModified: '2016-08-22T03:00:33.300Z'
-publisher: {}
-author: []
+datePublished: '2016-08-22T03:50:22.542Z'
+inFeed: true
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-22T03:50:17.418Z'
+title: The Beach Lodge
+publisher: {}
 description: >-
   On a spectacular 2 acres private beach front, between Uvita and Dominical, the
   ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views all
   around and totally blended in Nature, that can accommodate a max of 4 guests.
-via: {}
-starred: true
+starred: false
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 url: the-beach-lodge/index.html
-_type: Blurb
+_type: Article
 
 ---
 # The Beach Lodge
