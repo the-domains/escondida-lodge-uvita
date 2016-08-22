@@ -1,31 +1,17 @@
 ---
-datePublished: '2016-08-21T23:37:07.602Z'
-sourcePath: _posts/2016-08-20-the-beach-lodge.md
-hasPage: true
-author: []
-via: {}
-metadata:
-  title: The Beach Lodge
-  datePublished: '2016-08-20T23:30:56.771Z'
-  dateModified: '2016-08-20T23:30:56.771Z'
-  publisher: {}
-  author: []
-  description: >-
-    On a spectacular 2 acres private beach front, between Uvita and Dominical,
-    the ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views
-    all around and totally blended in Nature, that can accommodate a max of 4
-    guests.
-  via: {}
-  sourcePath: _posts/2016-08-20-the-beach-lodge.md
-dateModified: '2016-08-21T23:37:06.843Z'
 title: The Beach Lodge
-id: fe886335-6ef8-46d3-9ac0-e527b7412519
+datePublished: '2016-08-22T03:00:50.542Z'
+dateModified: '2016-08-22T03:00:33.300Z'
 publisher: {}
+author: []
+hasPage: true
 description: >-
   On a spectacular 2 acres private beach front, between Uvita and Dominical, the
   ecological refuge is 1 comfortable Oceanfront Rustic Cabin with views all
   around and totally blended in Nature, that can accommodate a max of 4 guests.
+via: {}
 starred: true
+sourcePath: _posts/2016-08-20-the-beach-lodge.md
 url: the-beach-lodge/index.html
 _type: Blurb
 
@@ -56,3 +42,4 @@ Are you ready to unplug?
 Bookings: playaescondidalodge@gmail.com
 
 Phone: +(506) 6004-0123
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64db3a9-943e-463f-9804-8ccc55913b6b.jpg)
