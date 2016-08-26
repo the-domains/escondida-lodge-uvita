@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T04:01:13.020Z'
+datePublished: '2016-08-26T02:35:28.652Z'
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-22T04:01:12.544Z'
+dateModified: '2016-08-26T02:35:27.945Z'
 title: The Beach Lodge
 publisher: {}
 description: >-
@@ -38,8 +38,4 @@ The Lodge sleep up to 4 guests
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80955fbf-4028-410a-9086-05a0f98dfca4.jpg)
 
 Are you ready to unplug?
-
-Bookings: playaescondidalodge@gmail.com
-
-Phone: +(506) 6004-0123
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64db3a9-943e-463f-9804-8ccc55913b6b.jpg)
