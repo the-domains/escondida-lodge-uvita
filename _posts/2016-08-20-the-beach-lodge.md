@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-26T15:13:22.297Z'
+datePublished: '2016-08-26T15:13:17.278Z'
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 author: []
 via: {}
-dateModified: '2016-08-26T15:13:21.033Z'
+dateModified: '2016-08-26T15:13:11.577Z'
 title: The Beach Lodge
 id: fe886335-6ef8-46d3-9ac0-e527b7412519
 publisher: {}
