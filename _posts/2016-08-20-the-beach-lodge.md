@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-26T15:06:31.885Z'
+datePublished: '2016-08-26T15:13:22.297Z'
 sourcePath: _posts/2016-08-20-the-beach-lodge.md
 author: []
 via: {}
-dateModified: '2016-08-26T15:05:49.535Z'
+dateModified: '2016-08-26T15:13:21.033Z'
 title: The Beach Lodge
 id: fe886335-6ef8-46d3-9ac0-e527b7412519
 publisher: {}
@@ -39,5 +39,5 @@ wi-fi internet
 
 Are you ready to unplug?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64db3a9-943e-463f-9804-8ccc55913b6b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa2b0f1-b98d-457b-9ab8-9594f94de2dd.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/52ce216139dc784bd532d39c863bda7041e73d3c.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2988fe1d-5b65-4800-89e8-40c15be2d1ea.png)
